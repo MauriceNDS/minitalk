@@ -1,11 +1,11 @@
 # Minitalk
 
-## 💡 About the project
+## About the project
 
-> _The purpose of this project is to code a small data exchange program using
-UNIX signals._
+The purpose of this project is to code a small data exchange program using
+UNIX signals.
 
-## 🛠️ Usage
+## Usage
 
 ### Requirements
 
@@ -22,7 +22,7 @@ $ make
 ```
 
 
-## 📋 Testing
+## Testing
 
 To test the program you just need to launch the "server" and the "client" in different shell tabs with the following:
 
